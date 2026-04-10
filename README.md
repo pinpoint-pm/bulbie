@@ -1,10 +1,6 @@
 # Bulbie
 
-**Bulbie** is a free macOS utility that unlocks XDR brightness on Apple 
-displays, allowing users to boost beyond standard SDR limits or dim below 
-system minimums. 
-
-Designed for Apple XDR displays. Results may vary on other hardware.
+**Bulbie** is a free macOS utility that helps your displays go brighter or dimmer than ever before! Brighten mode is optimized for Apple XDR displays, allowing you to exceed your system maximum by tapping into your display's HDR peak brightness spec.  Dim mode keeps your screen on but can go darker than your system minimum. Results may vary on other hardware.
 
 **Coming soon!**
 
@@ -16,7 +12,6 @@ Developed and maintained by [Pinpoint PM, LLC](https://pinpoint-pm.com)
 
 - macOS 12.0 (Monterey) or later
 - Apple Silicon or Intel Mac with Metal support
-- Best experienced on Apple XDR-capable displays
 
 ---
 
