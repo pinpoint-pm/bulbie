@@ -44,7 +44,8 @@ For questions regarding this privacy policy, contact: holden@pinpoint-pm.com
 
 ### v[VERSION] — [RELEASE DATE]
 - Initial release
-- XDR boost (up to +100% above SDR)
+- Brighten control (up to +100%)
 - Dim control (down to -100%)
 - Menu bar and app window UI modes
 - Open at Login support (macOS 13+)
+- Onboarding
