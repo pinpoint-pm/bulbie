@@ -42,7 +42,7 @@ For questions regarding this privacy policy, contact: holden@pinpoint-pm.com
 
 ## Changelog
 
-### v1.0 — 2026-05-05
+### v1.0: 2026-05-05
 - Initial release
 - Brighten control (up to +100%)
 - Dim control (down to -100%)
