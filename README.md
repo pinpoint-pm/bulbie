@@ -49,3 +49,5 @@ For questions regarding this privacy policy, contact: holden@pinpoint-pm.com
 - Menu bar and app window UI modes
 - Open at Login support (macOS 13+)
 - Onboarding
+### v1.0.1: 2026-05-05
+- Updated URLs and app sizing
