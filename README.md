@@ -4,6 +4,7 @@
 
 <img width="462" height="703" alt="Screenshot 2026-04-10 at 5 41 51 PM" src="https://github.com/user-attachments/assets/5d0c0e4f-3c5f-42fe-b5a3-cb70e47b596e" />
 
+
 [![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us)](https://apps.apple.com/app/bulbie/id6762523005)
 
 Developed and maintained by [Pinpoint PM, LLC](https://pinpoint-pm.com)
